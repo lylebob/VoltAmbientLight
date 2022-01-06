@@ -1,5 +1,5 @@
 # VoltAmbientLight
-Gen2 Chevy Volt Ambient light sensor from LIN bus
+Gen2 Chevy Volt Ambient light sensor reading from LIN bus
 
 This code decodes the LIN bus data on LIN bus 5 of the Body Control Module in a 2019 Volt for ambient light sensor readings.
 It's possible that it will work on other Gen2 Volts.
